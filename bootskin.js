@@ -78,7 +78,8 @@
         { id: 'xp-home', name: 'Windows XP Home Edition', author: 'Microsoft', description: 'The boot screen from Windows XP Home Edition.', type: 'gif', path: 'skins/home.gif', style: 'contain', bgColor: '#000000', delay: 4000 },
         { id: 'tablet-pc', name: 'Tablet PC Edition', author: 'Microsoft', description: 'Boot screen from the Tablet PC Edition.', type: 'gif', path: 'skins/tablet-pc.gif', style: 'contain', bgColor: '#000000', delay: 4000 },
         { id: 'whistler', name: 'Windows Whistler', author: 'Microsoft', description: 'A pre-release boot screen from codename Whistler.', type: 'gif', path: 'skins/whistler.gif', style: 'contain', bgColor: '#000000', delay: 4000 },
-        { id: 'x64', name: 'Windows XP x64 Edition', author: 'Microsoft', description: 'Boot screen from the 64-bit edition.', type: 'gif', path: 'skins/x64.gif', style: 'contain', bgColor: '#000000', delay: 4000 }
+        { id: 'x64', name: 'Windows XP x64 Edition', author: 'Microsoft', description: 'Boot screen from the 64-bit edition.', type: 'gif', path: 'skins/x64.gif', style: 'contain', bgColor: '#000000', delay: 4000 },
+        { id: 'horror', name: 'Windows XP Horror Edition', author: 'WobbyChip', description: 'The boot screen of the horror.', type: 'gif', path: 'skins/horror.gif', style: 'stretch', bgColor: '#230000', delay: 2743 }
     ];
 
     let selfWindowRef = null;
